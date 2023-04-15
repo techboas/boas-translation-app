@@ -1,8 +1,6 @@
 # Shopify App Template - PHP
 
-This is a template for building a [Shopify app](https://shopify.dev/apps/getting-started) using PHP and React. It contains the basics for building a Shopify app.
-
-Rather than cloning this repo, you can use your preferred package manager and the Shopify CLI with [these steps](#installing-the-template).
+This is BOAS shopify app used to provide translation to the BOAS language. It utilizes google cloud translation API and shopify App theme extension. 
 
 ## Benefits
 
