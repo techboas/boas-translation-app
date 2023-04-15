@@ -1,0 +1,21 @@
+{
+  "name": "udemy-app",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "shopify": "shopify",
+    "build": "shopify app build",
+    "dev": "shopify app dev",
+    "push": "shopify app push",
+    "generate": "shopify app generate",
+    "deploy": "shopify app deploy",
+    "info": "shopify app info"
+  },
+  "dependencies": {
+    "@shopify/app": "3.43.0",
+    "@shopify/cli": "3.43.0",
+    "axios": "^1.3.4",
+    "dotenv": "^16.0.3"
+  },
+  "author": "hp15pav"
+}
